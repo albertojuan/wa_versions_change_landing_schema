@@ -21,5 +21,3 @@ SQL >
 
 TYPE materialized
 DATASOURCE new_analytics_sessions_mv
-
-
