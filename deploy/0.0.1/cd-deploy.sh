@@ -1,1 +1,1 @@
-tb push pipes/migrate-old-data.pipe --populate --wait
+tb push pipes/migrate_old_data.pipe --populate --wait
